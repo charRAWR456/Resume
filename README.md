@@ -27,7 +27,7 @@ _Scheduler/ Receptionist_
 * Created day to day office schedule 
 * Utilized Microsoft Office and Database daily to complete office tasks 
 
-**GameStop** 	  					                                                             	Nov. 2008 – Apr. 2013
+**GameStop**  					                                                             	Nov. 2008 – Apr. 2013
 _Lead Game Advisor_ 				
 * Managed the team Game Advisors 
 * Upkeep store image by maintaining a high degree of organization, cleanliness, and alphabetized
@@ -37,7 +37,7 @@ _Lead Game Advisor_
 
 
 ### EDUCATION
-**University of Advancing Technology**								     	     	2011-2015
+**University of Advancing Technology**  								     	     	2011-2015
 _Bachelor of Science_ - Game Programming - no degree	Tempe, Arizona
 
 ### RELEVANT SKILLS
