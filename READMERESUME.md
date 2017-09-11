@@ -3,7 +3,7 @@
 #### 13631 Puget Sound Blvd Edmonds, WA 98026      |      (480)584-9231      |      charrawr456@gmail.com
 
 	
-## EMPLOYMENT HISTORY
+#### EMPLOYMENT HISTORY
 **TEKsystems**  
 _Customer Support Associate_ | January 2014 - Present
 * Managed weekly payroll and HR responsibilities for 160 employees over several different timecard systems
