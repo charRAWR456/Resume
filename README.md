@@ -1,6 +1,6 @@
 
 # JAMIE PITTAK
-### 13631 Puget Sound Blvd Edmonds, WA 98026          (480)584-9231       charrawr456@gmail.com
+#### 13631 Puget Sound Blvd Edmonds, WA 98026      |      (480)584-9231      |      charrawr456@gmail.com
 
 	
 ### EMPLOYMENT HISTORY
