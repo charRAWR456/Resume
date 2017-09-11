@@ -20,14 +20,14 @@ _Materials Management_ for Nintendo | September 2013 - Janunary 2014
 * Verify and fulfill orders for Club Nintendo
 * Completed monthly inventory 
 
-**Protex**     						                                                                          	
+**Protex**  
 _Scheduler/ Receptionist_ | January 2013 – July 2013				
 * Provided top quality customer service as first point of contact for the office
 * Managed office communication by multiphone line, email, and in person
 * Created day to day office schedule 
 * Utilized Microsoft Office and Database daily to complete office tasks 
 
-**GameStop**   					                                                             	
+**GameStop**  
 _Lead Game Advisor_ | November 2008 – April 2013			
 * Managed the team Game Advisors 
 * Upkeep store image by maintaining a high degree of organization, cleanliness, and alphabetized
