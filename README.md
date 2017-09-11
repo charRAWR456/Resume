@@ -3,7 +3,7 @@
 #### 13631 Puget Sound Blvd Edmonds, WA 98026      |      (480)584-9231      |      charrawr456@gmail.com
 
 	
-### EMPLOYMENT HISTORY
+#### EMPLOYMENT HISTORY
 **TEKsystems**  
 _Customer Support Associate_ | January 2014 - Present
 * Managed weekly payroll and HR responsibilities for 160 employees over several different timecard systems
@@ -36,11 +36,11 @@ _Lead Game Advisor_ | November 2008 – April 2013
 * Managed store funds daily to confirm accounts remain balanced
 
 
-### EDUCATION
-**University of Advancing Technology** | 2011-2015
+#### EDUCATION
+**University of Advancing Technology** | 2011-2015  
 _Bachelor of Science_ - Game Programming - _no degree_	Tempe, Arizona
 
-### RELEVANT SKILLS
+#### RELEVANT SKILLS
 * Able to lead a group and work within a team
 * Office reporting 
 * Communication over a variety of mediums
