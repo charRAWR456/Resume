@@ -46,8 +46,10 @@ _Lead Game Advisor_ | November 2008 – April 2013
 ### EDUCATION
 **Epicodus** | January 2018- June 2018  
 _C#/ Javascript/ React_ - Web Development -Seattle, Washington
-* In my time at Epicodus I single handedly rebuilt the homepage of Etsy and am working on an application that assists users in learning the basics of American Sign Language to help bridge the communication gap between the hearing and deaf communities.
+
+In my time at Epicodus I single handedly rebuilt the homepage of Etsy and am working on an application that assists users in learning the basics of American Sign Language to help bridge the communication gap between the hearing and deaf communities.
 
 **University of Advancing Technology** | 2011-2015  
 _Bachelor of Science_ - Game Programming - _no degree_- Tempe, Arizona
-* In my time at UAT I learned the basics of programming and video game programming using Python.
+
+In my time at UAT I learned the basics of programming and video game programming using Python.
