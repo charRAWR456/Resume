@@ -2,10 +2,10 @@
 #### LinkedIn: https://www.linkedin.com/in/jamiepittak/ 
 #### GitHub: https://github.com/charRAWR456  
 
-#### Summary
+### Summary
 I am an individual that has always found success in helping others and encouraging my team to be the best they could be by utilizing the programs given to us. With every task I take on I am always looking for an innovative solution to make each process more efficient. After spending the last six months coding over 1000 hours at Epicodus, I am ready to apply my creative thinking to help accomplish bigger solutions that help your company identify ways to improve processes and enhance user experiences.
 	
-#### SKILLS
+### SKILLS
 * Javascript
 * Angular 
 * React.js
@@ -19,7 +19,7 @@ I am an individual that has always found success in helping others and encouragi
 * Pair Programming
 * Git
 	
-#### EMPLOYMENT HISTORY
+### EMPLOYMENT HISTORY
 **Anywhere.com**  
 _Front End Developer_ (Intern) | June 2018 - July 2018
 * Revamped the UI/UX for the Vacation Planning Form using Javascript with the React framework
@@ -43,11 +43,13 @@ _Lead Game Advisor_ | November 2008 – April 2013
 * Assisted a diverse clientele and always had repeat customers
 * Managed store opening and closing procedures including daily fund counts to confirm accounts remain balanced
 
-#### EDUCATION
+### EDUCATION
 **Epicodus** | January 2018- June 2018  
-_C#/ Javascript/ React_ - Web Development -     Seattle, Washington
+_C#/ Javascript/ React_ - Web Development -                          Seattle, Washington
+
 In my time at Epicodus I single handedly rebuilt the homepage of Etsy and am working on an application that assists users in learning the basics of American Sign Language to help bridge the communication gap between the hearing and deaf communities.
 
 **University of Advancing Technology** | 2011-2015  
-_Bachelor of Science_ - Game Programming - _no degree_	Tempe, Arizona
+_Bachelor of Science_ - Game Programming - _no degree_     	Tempe, Arizona
+
 In my time at UAT I learned the basics of programming and video game programming using Python.
