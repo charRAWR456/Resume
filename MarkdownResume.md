@@ -6,18 +6,13 @@
 I am an individual that has always found success in helping others and encouraging my team to be the best they could be by utilizing the programs given to us. With every task I take on I am always looking for an innovative solution to make each process more efficient. After spending the last six months coding over 1000 hours at Epicodus, I am ready to apply my creative thinking to help accomplish bigger solutions that help your company identify ways to improve processes and enhance user experiences.
 	
 ### SKILLS
-* Javascript
-* Angular 
-* React.js
-* Typescript
-* C# 
-* ASP.NET MVC
-* CSS
-* HTML
-* Detail Oriented
-* American Sign Language
-* Pair Programming
-* Git
+|   |   |   |
+|:-:	|:-:	|:-:	|
+| Javascript | C#  | Detail Oriented |
+| Angular | ASP.NET MVC  | American Sign Language |
+| React.js | CSS | Pair Programming |
+| Typescript | HTML | Git |
+ 
 	
 ### EMPLOYMENT HISTORY
 **Anywhere.com**  
