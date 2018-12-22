@@ -1,49 +1,52 @@
 # JAMIE PITTAK
 #### 13631 Puget Sound Blvd Edmonds, WA 98026      |      (480)584-9231      |      charrawr456@gmail.com
 
+#### Summary
+I am an individual that has always found success in helping others and encouraging my team to be the best they could be by utilizing the programs given to us. With every task I take on I am always looking for an innovative solution to make each process more efficient. After spending the last six months coding over 1000 hours at Epicodus, I am ready to apply my creative thinking to help accomplish bigger solutions that help your company identify ways to improve processes and enhance user experiences.
+	
+#### SKILLS
+* Javascript
+* Angular 
+* React.js
+* Typescript
+* C# 
+* ASP.NET MVC
+* CSS
+* HTML
+* Detail Oriented
+* American Sign Language
+* Pair Programming
+* Git
 	
 #### EMPLOYMENT HISTORY
+**Anywhere.com**  
+_Front End Developer_ (Intern) | June 2018 - July 2018
+* Revamped the UI/UX for the Vacation Planning Form using Javascript with the React framework
+* Learned new technologies and libraries such as Immutable.JS and Moment.JS in a short amount of time
+* Brought desired styles to life with CSS
+
 **TEKsystems**  
-_Customer Support Associate_ | January 2014 - Present
-* Managed weekly payroll and HR responsibilities for 160 employees over several different timecard systems
-* Primary point of contact for the training of new team members and execution of training schedule
+_Customer Support Associate_ | January 2014 - October 2017
+* Created training aids and traveled nationally to assist and train other team members
+* Spearheaded the development of the Portland and North Carolina support team and on-boarding process
+* Managed relationships, weekly payroll, and HR responsibilities for 160 employees over several different clients and timecard systems
 * Completed new hire and compliance procedures for an average of 8 new employees each week 
-* Monitored and updated multiple weekly reports to ensure best business practices were being followed
-* Coordinated and scheduled international travel regularly for a team of consultants 
-* Maintain and ordered customer equipment through Service Now
 
 **Aerotek**  
 _Materials Management_ for Nintendo | September 2013 - Janunary 2014
-* Managed, prepared, and tracked all outbound shipments for customer delivery 
-* Performed quality assurance procedures for refurbished products to ensure product met company standards
-* Verify and fulfill orders for Club Nintendo
-* Completed monthly inventory 
-
-**Protex**  
-_Scheduler/ Receptionist_ | January 2013 – July 2013				
-* Provided top quality customer service as first point of contact for the office
-* Managed office communication by multiphone line, email, and in person
-* Created day to day office schedule 
-* Utilized Microsoft Office and Database daily to complete office tasks 
+* Established relationships with six departments and was quick to pick up processes to support each of them
+* Identified new effective ways to approach tasks that helped me exceed expectations 
 
 **GameStop**  
 _Lead Game Advisor_ | November 2008 – April 2013			
-* Managed the team Game Advisors 
-* Upkeep store image by maintaining a high degree of organization, cleanliness, and alphabetized
-* Monitored store inventory, tracked incoming/outgoing shipments, and responsible for opening and closing store
-* Provide face to face customer service while multitasking in a variety of different roles
-* Managed store funds daily to confirm accounts remain balanced
-
+* Assisted a diverse clientele and always had repeat customers
+* Managed store opening and closing procedures including daily fund counts to confirm accounts remain balanced
 
 #### EDUCATION
+**Epicodus** | January 2018- June 2018  
+_C#/ Javascript/ React_ - Web Development -     Seattle, Washington
+In my time at Epicodus I single handedly rebuilt the homepage of Etsy and am working on an application that assists users in learning the basics of American Sign Language to help bridge the communication gap between the hearing and deaf communities.
+
 **University of Advancing Technology** | 2011-2015  
 _Bachelor of Science_ - Game Programming - _no degree_	Tempe, Arizona
-
-#### RELEVANT SKILLS
-* Able to lead a group and work within a team
-* Office reporting 
-* Communication over a variety of mediums
-* Detail oriented
-* Microsoft Office (Word, Excel, Outlook, PowerPoint) 
-* Service Now 
-* Booking travel for teams 
+In my time at UAT I learned the basics of programming and video game programming using Python.
