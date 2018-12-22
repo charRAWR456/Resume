@@ -1,5 +1,6 @@
-# JAMIE PITTAK
-#### 13631 Puget Sound Blvd Edmonds, WA 98026      |      (480)584-9231      |      charrawr456@gmail.com
+# JAMIE PITTAK |      (480)584-9231      |      charrawr456@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/jamiepittak/ 
+#### GitHub: https://github.com/charRAWR456  
 
 #### Summary
 I am an individual that has always found success in helping others and encouraging my team to be the best they could be by utilizing the programs given to us. With every task I take on I am always looking for an innovative solution to make each process more efficient. After spending the last six months coding over 1000 hours at Epicodus, I am ready to apply my creative thinking to help accomplish bigger solutions that help your company identify ways to improve processes and enhance user experiences.
